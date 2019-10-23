@@ -1,0 +1,36 @@
+body{
+    background: url(background.jpg) repeat fixed center;
+}
+
+#divBody{
+    text-align: center;
+    background: url(texture.png) repeat fixed center;
+    background-color: burlywood;
+    margin-left: 350px;
+    margin-right: 350px;
+    border: 15px solid rgb(235, 203, 154);
+    top: 0;
+}
+
+.container{
+    position: relative;
+    text-align: center;
+}
+
+.top-left{
+    position: absolute;
+    top: 3px;
+    left: 180px;
+}
+
+.top-right{
+    position: absolute;
+    top: 3px;
+    right: 150px;
+}
+
+.sidenav{
+    width: 200px;
+    position: fixed;
+    top: 25%;
+}
