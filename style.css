@@ -91,6 +91,9 @@ ul #whoList #whoList2{
 h1{
     font-family: 'Amatic SC', cursive;
 }
+h2{
+    font-family: 'Amatic SC', cursive;
+}
 h3{
     font-family: 'Amatic SC', cursive;
 }
@@ -110,4 +113,30 @@ p{
 #insta{
     width: 100px;
     height: 100px;
+}
+
+#jordan{
+    list-style-type: none;
+}
+
+#phone{
+    list-style-type: none;
+}
+
+#times{
+    list-style-type: none;
+}
+
+#paragraph{
+    list-style-type: none;
+}
+
+#menuDiv{
+    top: 50px;
+}
+ul{
+    font-family: 'Shadows Into Light', cursive;
+}
+.mapouter{
+    left: 10%;
 }
